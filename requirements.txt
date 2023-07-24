@@ -1,0 +1,5 @@
+certifi==2023.7.22
+pycurl==7.45.2
+python-dateutil==2.8.2
+sentinel5dl==1.2
+six==1.16.0
